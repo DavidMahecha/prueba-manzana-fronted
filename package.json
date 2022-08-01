@@ -2,9 +2,9 @@
   "name": "prueba-fronted-manzana",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --host",
+    "start": "vite --host",
     "build": "vite build",
-    "serve": "vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.3",

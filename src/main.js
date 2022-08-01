@@ -8,7 +8,8 @@ import '@fortawesome/fontawesome-free/css/all.min.css'
 import './tailwind.css'
 
 axios.defaults.headers.common['Content-Type'] = 'application/json'
-axios.defaults.baseURL = 'http://localhost:80/api/'
+axios.defaults.baseURL = 'https://fast-beach-23896.herokuapp.com/api/'
+// axios.defaults.baseURL = 'http://localhost:80/api/'
 
 store.dispatch('fetchAccessToken')
 axios.defaults.headers.common.Authorization = `Bearer ${store.state.accessToken}`
