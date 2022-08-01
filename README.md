@@ -24,7 +24,7 @@ First-party plugins needed for Tailwind UI:
 ### Getting Started
 
 ```sh
-npx degit web2033/vite-vue3-tailwind-starter vvt-app
+npx degit web2033/prueba-fronted-manzana vvt-app
 cd vvt-app
 ```
 
@@ -35,4 +35,4 @@ npm run build
 npm run serve
 ```
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/web2033/vite-vue3-tailwind-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/web2033/prueba-fronted-manzana)

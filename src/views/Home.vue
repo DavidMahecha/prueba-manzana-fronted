@@ -18,7 +18,7 @@ import ButtonRepo from '@/components/ButtonRepo.vue'
         <div class="inline-flex rounded-md shadow">
           <router-link
             to="/about"
-            class="inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium leading-6 text-white transition duration-150 ease-in-out hover:bg-indigo-500 focus:outline-none"
+            class="inline-flex items-center justify-center rounded-md border border-transparent bg-orange-500 px-5 py-3 text-base font-medium leading-6 text-white transition duration-150 ease-in-out hover:bg-indigo-500 focus:outline-none"
             >Next Page</router-link
           >
         </div>
